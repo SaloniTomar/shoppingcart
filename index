@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Our Shopping Cart</title>
+
+  <link rel="stylesheet" href="D:/assign/stylesheet.css">
+
+  </head>
+  <body>
+    <h1 id="heading">Our Shopping Cart</h1>
+
+    <h3 id="subheading">Click on one of the categories to continue shopping</h3>
+
+    <a href="Menclothing page">
+      <title>Men's Clothing</title>
+      <img src="" alt="Men Clothing" title="Men's Clothing" style="width:400px;height:600px;border:0">
+    </a>
+
+    <a href="D:/assign/women.html">
+      <title>Women's Clothing</title>
+      <img src="http://www.fashionfist.com/wp-content/uploads/2014/09/Gucci-Women-Clothing-Line-for-Spring-Summer-Season-2014-Fashion-Fist-141.jpg" alt="Women Clothing" title="Women's Clothing" style="width:400px;height:600px;border:0">
+    </a>
+
+    <a href="Childrenclothing page">
+     <title>Children's Clothing</title>
+    <img src="ChildrenCollection.jpg" alt="Children Clothing" title="Children's Clothing" style="width:400px;height:600px;border:0">
+    </a>
+
+
+
+
+  </body>
+</html>
